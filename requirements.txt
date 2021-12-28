@@ -1,4 +1,3 @@
-PS C:\Users\akyri\Desktop\python\python heroku> pip freeze requirements.txt      
 alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
 anaconda-client @ file:///C:/ci/anaconda-client_1635342725944/work
 anaconda-navigator==2.1.1
